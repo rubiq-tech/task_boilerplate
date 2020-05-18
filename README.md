@@ -3,7 +3,7 @@
 ## Available Scripts
 
 In the root directory, you can the following to install all dependencies:
-## `npm run install:all`
+### `npm run install:all`
 
 Then run the following to spin up both the server and the client:
 ### `npm run dev`
@@ -15,3 +15,6 @@ The server will run at [http://localhost:6000](http://localhost:6000).
 The server is ready to go with ES6 syntax, the client and server will reload automatically with any edits you make.<br />
 
 You will also see any lint errors in the console.
+
+### Please note:
+In order to add dependencies to either `server` or `client`, install the packages inside the respective directories, NOT in the root directory, as each has its own `package.json` and `node_modules`. 
