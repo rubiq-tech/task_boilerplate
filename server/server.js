@@ -1,7 +1,7 @@
 import express from 'express';
 const app = express();
 
-const PORT = 6001;
+const PORT = 6000;
 
 app.get('/flights', (req, res) => {
   res.send('Woosh ✈️')
