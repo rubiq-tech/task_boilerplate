@@ -3,7 +3,7 @@ const app = express();
 
 const PORT = 6000;
 
-app.get('/flights', (req, res) => {
+app.get('/', (req, res) => {
   res.send('Woosh ✈️')
 });
 
