@@ -17,4 +17,4 @@ The server is ready to go with ES6 syntax, the client and server will reload aut
 You will also see any lint errors in the console.
 
 ### Please note:
-In order to add dependencies to either `server` or `client`, run the `npm install` command inside their respective directories, NOT through the root directory, as each has its own `package.json` and `node_modules`. 
+In order to add dependencies to either `server` or `client`, run the `npm install` command inside their respective directories, NOT through the root directory, as each has its own seperate `package.json` and `node_modules`. 
