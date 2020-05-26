@@ -10,7 +10,7 @@ Then, run the following in the root directory to spin up both the server and the
 
 This command will initiate both the server and the client.<br />
 Open [http://localhost:3000](http://localhost:3000) to view the client in the browser.
-The server will run at [http://localhost:6000](http://localhost:6000).
+The server will run at [http://localhost:5000](http://localhost:5000).
 
 The server is ready to go with ES6 syntax, the client and server will reload automatically with any edits you make.<br />
 
